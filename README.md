@@ -3,7 +3,7 @@
 
 This project allows users to paste a YouTube video URL and receive a summarized version of its transcript. It includes a Flask backend for fetching and summarizing the transcript and a React frontend for the user interface.
 
-## 🔧 Folder Structure
+##  Folder Structure
 
 ```
 YouTube_Summarization/
@@ -19,7 +19,7 @@ YouTube_Summarization/
             └── YouTubeSummarizer.jsx
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Backend (Flask API)
 
@@ -60,7 +60,7 @@ npm run dev
 
 Open the browser at: `http://localhost:5173`
 
-## ✅ How It Works
+## How It Works
 
 1. User pastes a YouTube video URL.
 2. React frontend sends the URL to the Flask backend.
@@ -68,19 +68,20 @@ Open the browser at: `http://localhost:5173`
 4. It summarizes the transcript using a HuggingFace transformer (`bart-large-cnn`).
 5. The summary is displayed in the UI.
 
-## 📦 Requirements
+##  Requirements
 
 - Node.js & npm (for frontend)
 - Python 3.8+ (for backend)
 - pip
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - React (frontend)
 - Flask (backend)
 - Hugging Face Transformers
 - YouTube Transcript API
 
-## ✨ Author
 
-Generated with the help of ChatGPT and your original project setup.
+## Author
+Akanksha Budda  
+Email: akankshabudda7@gmail.com
