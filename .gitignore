@@ -1,0 +1,13 @@
+Ignore Python virtual environment
+backend/venv/
+pycache/
+*.pyc
+
+Node modules
+frontend/node_modules/
+
+OS/IDE files
+.DS_Store
+.env
+*.log
+
